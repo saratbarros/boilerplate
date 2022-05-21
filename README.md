@@ -1,4 +1,4 @@
 # Boilerplate
-- Brainnest Industry Training
+- Brainnest Industry Training Course
 - Simple boilerplate website done in HTML
  
