@@ -1,5 +1,5 @@
 # Boilerplate
-- Brainnest Industry Training Course
+- Brainnest Frontend Development Industry Training Course
 - Link to the website [here](https://saratbarros.github.io/boilerplate/)
 
 ## About this assignment
